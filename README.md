@@ -1,4 +1,4 @@
-# Waymo_to_SemanticKITTI
+# Convert waymo open dataset 3D Segmentation format to SemanticKITTI format
 
 ## Xu
 
