@@ -2,6 +2,7 @@
 
 Convert waymo open dataset 3D segmentation format to SemanticKITTI format.
 
+Run the script:
 ```
 python convert.py --load_dir /path/to/original/waymo_format --save_dir /path/to/new/semantickitti_format
 ```
@@ -9,6 +10,8 @@ python convert.py --load_dir /path/to/original/waymo_format --save_dir /path/to/
 ```
 nohup python convert.py --load_dir /path/to/original/waymo_format  --save_dir /path/to/new/semantickitti_format >converter.log &
 ```
+
+Dataset dir:
 
 ```
 ── /path/to/original/waymo_format
