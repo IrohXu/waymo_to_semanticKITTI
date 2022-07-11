@@ -7,7 +7,7 @@ python convert.py --load_dir /path/to/original/waymo_format --save_dir /path/to/
 ```
 
 ```
-nohup python convert.py --load_dir /media/hdd/xucao/dataset/waymo_open_dataset  --save_dir /media/hdd/xucao/dataset/semantickitti_format/dataset/sequences >converter.log &
+nohup python convert.py --load_dir /path/to/original/waymo_format  --save_dir /path/to/new/semantickitti_format >converter.log &
 ```
 
 ```
