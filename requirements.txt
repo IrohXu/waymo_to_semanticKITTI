@@ -1,2 +1,4 @@
-waymo-open-dataset-tf-2-6-0 == 1.4.9
-
+waymo-open-dataset-tf-2-6-0==1.4.9
+vtk
+mayavi
+pyqt5
